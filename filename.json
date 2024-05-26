@@ -1,0 +1,13 @@
+{
+    "type": "Request",
+    "action": "SendMessage",
+    "data": {
+        "message_id": 12345,
+        "sender_id": 98765,
+        "sender_nickname": "Alice",
+        "message_type": "Text",
+        "content": "SGVsbG8sIHdvcmxkIQ==",
+        "receiver": "Bob",
+        "timestamp": "2024-05-26 16:18:33.628429258 UTC"
+    }
+}
